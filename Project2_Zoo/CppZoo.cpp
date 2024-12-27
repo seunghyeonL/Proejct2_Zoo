@@ -149,7 +149,7 @@ int main() {
     // Zoo zoo
     Zoo* zoo = new Zoo();
 
-    for (int i = 0; i < 100; i++) {
+    for (int i = 0; i < 30; i++) {
         Main::createRandomAnimal(*zoo);
     }
 
