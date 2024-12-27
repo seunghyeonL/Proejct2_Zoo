@@ -2,7 +2,8 @@
 
 ## 클래스 다이어그램
 ---
-![image](https://github.com/user-attachments/assets/5556b5c3-13f5-4494-9a1b-f6441ce67a5b)
+![image](https://github.com/user-attachments/assets/916c40a5-4360-4ed0-95bd-bd7b4c761c56)
+
 
 ## 동작
 ---
